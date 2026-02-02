@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Viola Park",
+    valentineName: "Viola",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -25,11 +25,11 @@ const CONFIG = {
             text: "Do you miss me?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "Of course I miss you Mr too much ❤️"           // Secret hover message
+            secretAnswer: "Of course I miss you Mr too much 🙂‍↕️❤️"           // Secret hover message
         },
         second: {
             text: "How much do you miss me?",                          // For the love meter
-            startText: "Too much!So Much!Infinitely!",                                   // Text before the percentage
+            startText: "Infinitely!🗣️",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
@@ -42,16 +42,16 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "Not so P of you haha, but I still miss you more! 🥰🚀💝",  // Shows when they go past 5000%
-        high: "Thats all? I thought you missed me smh🚀💝",              // Shows when they go past 1000%
-        normal: "Not enough, I still miss you more 🥰"                           // Shows when they go past 100%
+        extreme: "Not so P of you haha, but I still miss you more!❤️❤️❤️ ",  // Shows when they go past 5000%
+        high: "Thats all? I thought you missed me smh🫩",              // Shows when they go past 1000%
+        normal: "Not enough, I still miss you more 😏"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "See now you've made me the luckiest man in the world haha 🎉💝💖💝💓",
-        message: "My special woman, I can't wait to see you again my love",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        title: "See now you've made me the luckiest man in the world haha ",
+        message: "I hope you like this haha, I can't wait to see you again my love",
+        emojis: "🎁❤️🤗❤️💋❤️"  // These will bounce around
     },
 
     // Color scheme for the website
